@@ -1,0 +1,9 @@
+{
+    "name": "QlikCanvas",
+    "type": "mashup",
+    "appdata": {
+        "qDocName": "",
+        "qDocId": ""
+    },
+    "allowPosition": true
+}
